@@ -22,3 +22,9 @@ saya sudah memberi keterangan pada kode (jadi kalian bisa memodifikasi sesuka ka
 
 ## Tampilan
 
+<img src="result.png">
+
+## Donasi Saya
+
+<a href="https://saweria.co/raiinime"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSgKi7Mc1FoMIv29bNffen93Td9Cvw7pPqOA&s" width="150px" height="100px">
+
