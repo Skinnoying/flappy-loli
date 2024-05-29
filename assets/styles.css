@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #000;
+}
+
+canvas {
+    border: 1px solid #000;
+    background: url('../images/wallpaper/wallpaper.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+}
+
+#gameOverText {
+    display: none;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: red;
+    font-size: 40px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    animation: fadeIn 1s ease-in-out forwards;
+}
+
+#restartText {
+    display: none;
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: black;
+    font-size: 30px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    animation: fadeIn 1s ease-in-out forwards;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
