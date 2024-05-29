@@ -13,7 +13,7 @@
 
 saya sudah memberi keterangan pada kode (jadi kalian bisa memodifikasi sesuka kalian)
 
-- Note : ini tidak berfungsi dan responsif di HP (kedepannya akan saya usahakan)
+- Note : ini tidak berfungsi dan tidak responsif di HP (kedepannya akan saya usahakan)
 
 <b>Fitur :</b>
 
